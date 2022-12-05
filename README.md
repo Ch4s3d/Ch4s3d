@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a web application for the administration of mentorships<br>🌱 I’m currently learning Laravel for this project<br>⚡ Fun fact, my first programming language was 'C' xD 
+🔭 I’m currently working on a web application for the administration of mentorships using Laravel<br>⚡ Fun fact, my first programming language was 'C' xD 
 
 
 ## 🌐 Socials:
